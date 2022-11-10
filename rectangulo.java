@@ -4,7 +4,7 @@ public class rectangulo {
 
     public rectangulo (double lado1, double lado2){
         lado1=7;
-        lado2=11;
+        lado2=12;
     }
 
     public double obtenerArea(){
